@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Cloud & DevOps Engineer ☁️ with 5+ years of experience across UAE, India and United States. Expert in designing secure, resilient, and cost-optimized cloud architectures on AWS & Azure, implementing CI/CD pipelines, containerization, and cloud governance."
   ),
-  resumeLink:
-    "https://gauthamp10.github.io/gautham-resume-dec-2025.pdf", // Set to empty to hide the button
+  resumeLink: "https://gauthamp10.github.io/gautham-resume-dec-2025.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -46,12 +45,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CLOUD & DEVOPS ENGINEER PASSIONATE ABOUT AUTOMATION AND INFRASTRUCTURE",
+  subTitle:
+    "CLOUD & DEVOPS ENGINEER PASSIONATE ABOUT AUTOMATION AND INFRASTRUCTURE",
   skills: [
     emoji(
       "⚡ Design and implement secure, resilient cloud architectures on AWS and Azure"
     ),
-    emoji("⚡ Build CI/CD pipelines, containerization, and infrastructure as code solutions"),
+    emoji(
+      "⚡ Build CI/CD pipelines, containerization, and infrastructure as code solutions"
+    ),
     emoji(
       "⚡ Kubernetes orchestration, cost optimization, and DevSecOps best practices"
     ),
@@ -218,7 +220,8 @@ const bigProjects = {
     {
       image: require("./assets/images/gplayLogo.jpg"),
       projectName: "Google Play Store Apps Dataset",
-      projectDesc: "Largest public Google Play Store dataset on Kaggle (~2.3M apps), enabling large-scale app market and ML analysis through structured, high-quality open data.",
+      projectDesc:
+        "Largest public Google Play Store dataset on Kaggle (~2.3M apps), enabling large-scale app market and ML analysis through structured, high-quality open data.",
       footerLink: [
         {
           name: "View on Kaggle",
@@ -229,7 +232,8 @@ const bigProjects = {
     {
       image: require("./assets/images/appstoreLogo.png"),
       projectName: "Apple AppStore Apps Dataset",
-      projectDesc: "Large public Apple App Store dataset (~1.2M apps) on Kaggle, enabling extensive analysis of app market trends and developer ecosystems.",
+      projectDesc:
+        "Large public Apple App Store dataset (~1.2M apps) on Kaggle, enabling extensive analysis of app market trends and developer ecosystems.",
       footerLink: [
         {
           name: "View on Kaggle",
@@ -240,7 +244,8 @@ const bigProjects = {
     {
       image: require("./assets/images/androidPermLogo.png"),
       projectName: "Android Permission Dataset",
-      projectDesc: "Large-scale Android App Permissions dataset covering ~2.2 million Google Play Store apps for security and privacy research.",
+      projectDesc:
+        "Large-scale Android App Permissions dataset covering ~2.2 million Google Play Store apps for security and privacy research.",
       footerLink: [
         {
           name: "View on Kaggle",
@@ -251,7 +256,8 @@ const bigProjects = {
     {
       image: require("./assets/images/dockerLogo.png"),
       projectName: "Dockerfile Boilerplates",
-      projectDesc: "Docker boilerplates/templates for most common programming languages. Like a 'Hello World!' but for Docker images. 233+ stars on GitHub.",
+      projectDesc:
+        "Docker boilerplates/templates for most common programming languages. Like a 'Hello World!' but for Docker images. 233+ stars on GitHub.",
       footerLink: [
         {
           name: "View on GitHub",
@@ -274,8 +280,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "AWS Certified Solutions Architect - Associate",
-      subtitle:
-        "Credential ID: M4X0FGGLE1EE153R",
+      subtitle: "Credential ID: M4X0FGGLE1EE153R",
       image: require("./assets/images/awsSaaLogo.png"),
       imageAlt: "AWS Solutions Architect Logo",
       footerLink: [
@@ -287,8 +292,7 @@ const achievementSection = {
     },
     {
       title: "AWS Certified SysOps Administrator - Associate",
-      subtitle:
-        "Credential ID: 311BPL3CSF14QTGS",
+      subtitle: "Credential ID: 311BPL3CSF14QTGS",
       image: require("./assets/images/awsSysOpsLogo.png"),
       imageAlt: "AWS SysOps Administrator Logo",
       footerLink: [
