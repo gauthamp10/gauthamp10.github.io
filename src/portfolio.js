@@ -218,7 +218,7 @@ const bigProjects = {
   subtitle: "LARGE-SCALE DATASETS AND OPEN SOURCE PROJECTS I'VE CREATED",
   projects: [
     {
-      image: require("./assets/images/gplayLogo.jpg"),
+      image: require("./assets/images/gplayLogo.png"),
       projectName: "Google Play Store Apps Dataset",
       projectDesc:
         "Largest public Google Play Store dataset on Kaggle (~2.3M apps), enabling large-scale app market and ML analysis through structured, high-quality open data.",
