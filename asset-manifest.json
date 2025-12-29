@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed9f0e0e.css",
+    "main.js": "/static/js/main.9b955c65.js",
+    "static/css/64.2c5b89f1.chunk.css": "/static/css/64.2c5b89f1.chunk.css",
+    "static/js/64.fac04a33.chunk.js": "/static/js/64.fac04a33.chunk.js",
+    "static/css/769.4493bc01.chunk.css": "/static/css/769.4493bc01.chunk.css",
+    "static/js/769.31fd7bfc.chunk.js": "/static/js/769.31fd7bfc.chunk.js",
+    "static/media/appstoreLogo.png": "/static/media/appstoreLogo.47bee90a5d93ce398853.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/awsSysOpsLogo.png": "/static/media/awsSysOpsLogo.51d1b0efc603c1d7e698.png",
+    "static/media/awsSaaLogo.png": "/static/media/awsSaaLogo.300ad7113d255078af77.png",
+    "static/media/awsDevLogo.png": "/static/media/awsDevLogo.c4679e61b2ff4bb6a803.png",
+    "static/media/androidPermLogo.png": "/static/media/androidPermLogo.1dfbc26bc81e31f8eb90.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/gplayLogo.png": "/static/media/gplayLogo.6cbece5d8956d538d24f.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/albathaLogo.webp": "/static/media/albathaLogo.352277003231735a9333.webp",
+    "static/media/cognizantLogo.webp": "/static/media/cognizantLogo.048737611b1fe7d70e44.webp",
+    "static/media/dockerLogo.png": "/static/media/dockerLogo.8217f3e6a2c238c53f4b.png",
+    "static/media/ubcLogo.png": "/static/media/ubcLogo.9d54b2f5c36ca2f44154.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/exlygenzeLogo.webp": "/static/media/exlygenzeLogo.9341f629ee6b4c8a6ef4.webp",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.ed9f0e0e.css.map": "/static/css/main.ed9f0e0e.css.map",
+    "main.9b955c65.js.map": "/static/js/main.9b955c65.js.map",
+    "64.2c5b89f1.chunk.css.map": "/static/css/64.2c5b89f1.chunk.css.map",
+    "64.fac04a33.chunk.js.map": "/static/js/64.fac04a33.chunk.js.map",
+    "769.4493bc01.chunk.css.map": "/static/css/769.4493bc01.chunk.css.map",
+    "769.31fd7bfc.chunk.js.map": "/static/js/769.31fd7bfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9f0e0e.css",
+    "static/js/main.9b955c65.js"
+  ]
+}
