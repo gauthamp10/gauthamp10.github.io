@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Cloud & DevOps Engineer ☁️ with 5+ years of experience across UAE, India and United States. Expert in designing secure, resilient, and cost-optimized cloud architectures on AWS & Azure, implementing CI/CD pipelines, containerization, and cloud governance."
   ),
-  resumeLink: "/gautham-resume-dec-2025.pdf", // Set to empty to hide the button
+  resumeLink: "/Gautham_Prakash_Senior_DevOps_Engineer.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
